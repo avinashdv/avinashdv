@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/avinashdv/avinashdv/blob/master/devcard.svg" width="400" alt="Chris Bongers's Dev Card"/></a>
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/avinashdv/avinashdv/devcard.svg" width="400" alt="Avinash DV's Dev Card"/></a>
 
 <!--
 **avinashdv/avinashdv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
